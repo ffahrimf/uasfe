@@ -1,0 +1,46 @@
+{
+    "produk": [
+        {
+            "name": "Honda ADV",
+            "price": "23000000",
+            "category": "AT",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corrupti.",
+            "image": "./assets/img/adv.png",
+            "id": "95d1"
+        },
+        {
+            "name": "Honda CBR",
+            "price": "50000000",
+            "category": "MT",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corrupti.",
+            "image": "./assets/img/cbr.png",
+            "id": "k8d1"
+        },
+        {
+            "name": "Vario 256",
+            "price": "35000000",
+            "category": "AT",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corrupti.",
+            "image": "./assets/img/vario.png",
+            "id": "1nd1"
+        },
+        {
+            "name": "Supra Bapak",
+            "price": "13000000",
+            "category": "MT",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corrupti.",
+            "image": "./assets/img/supra.png",
+            "id": "j1j8"
+        }
+    ],
+    "categories": [
+        {
+            "name": "AT",
+            "id": "7e6b"
+        },
+        {
+            "name": "MT",
+            "id": "db96"
+        }
+    ]
+}
